@@ -1,0 +1,6 @@
+model\dao\Requerimiento3Dao.class
+model\dao\Requerimiento1Dao.class
+model\vo\Requerimiento1.class
+model\dao\Requerimiento2Dao.class
+model\vo\Requerimiento2.class
+model\vo\Requerimiento3.class
